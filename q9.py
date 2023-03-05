@@ -1,0 +1,1 @@
+f=open("country.txt", "r")
